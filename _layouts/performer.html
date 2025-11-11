@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ page.excerpt | default: site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <main class="container">
+    <nav style="margin:0 0 1rem 0;">
+      <a href="{{ '/' | relative_url }}">Home</a> •
+      <a href="{{ '/performers/' | relative_url }}">Performers</a>
+    </nav>
+
+    <article class="performer-page">
+      <header style="display:flex;gap:1rem;align-items:center;margin-bottom:1rem;">
+        {% if page.photo %}
+        <img src="{{ '/assets/images/' | append: page.photo | relative_url }}" alt="Photo of {{ page.name }}" style="width:140px;height:140px;object-fit:cover;border-radius:8px;">
+        {% endif %}
+        <div>
+          <h1 style="margin:.2rem 0;">{{ page.name }}</h1>
+          <p style="margin:.2rem 0;font-weight:600;">{{ page.instrument }}</p>
+        </div>
+      </header>
+
+      <section class="performer-bio">
+        {{ page.bio }}
+      </section>
+
+      {% if page.media_url %}
+      <section class="performer-media" style="margin-top:1rem;">
+        <h2>Media</h2>
+        <p>
+          <!-- If it's a YouTube/Vimeo link the embed is left as a simple link; editor can paste iframe if desired -->
+          <a href="{{ page.media_url }}" target="_blank" rel="noopener">Listen / Watch</a>
+        </p>
+      </section>
+      {% endif %}
+
+      <p style="margin-top:1.25rem;"><a class="btn secondary" href="{{ '/performers/' | relative_url }}">Back to performers</a></p>
+    </article>
+  </main>
+</body>
+</html>
