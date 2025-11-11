@@ -1,16 +1,20 @@
 - name: Elsa Krol
   instrument: Flute/Piano/Voice
-  photo: elsa.jpg
+  photo: placeholder-musician.svg
   bio: 'Short bio for Elsa Krol.'
 - name: Charlotte Krol
   instrument: Percussion/Piano/Voice
-  photo: charlotte.jpg
+  photo: placeholder-musician.svg
   bio: 'Short bio for Charlotte Krol.'
 - name: Alanna Krol
   instrument: Piano/Clarinet/Voice
-  photo: alanna.jpg
+  photo: placeholder-musician.svg
   bio: 'Short bio for Alanna Krol.'
 - name: Josephine Kroeker
   instrument: Piano/Accordion/Voice
-  photo: josephine.jpg
+  photo: placeholder-musician.svg
   bio: 'Short bio for Josephine Kroeker.'
+- name: Example Student
+  instrument: Violin
+  photo: placeholder-musician.svg
+  bio: 'Example Student is a sample performer entry. Replace this entry or remove it when adding real performers.'

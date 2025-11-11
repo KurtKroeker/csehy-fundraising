@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder musician silhouette</title>
+  <desc id="desc">Stylized anonymous musician holding an instrument, usable as a placeholder image.</desc>
+  <rect width="100%" height="100%" fill="#f7f9fc"/>
+  <!-- Simple rounded card background -->
+  <g transform="translate(120,80)">
+    <rect x="0" y="0" width="960" height="640" rx="24" fill="#ffffff" stroke="#e6eef8" />
+    <!-- person silhouette group -->
+    <g transform="translate(220,120)">
+      <!-- head -->
+      <circle cx="200" cy="80" r="60" fill="#111827" />
+      <!-- neck -->
+      <rect x="188" y="130" width="24" height="28" rx="6" fill="#111827"/>
+      <!-- torso -->
+      <path d="M120 180 C 140 120, 320 120, 340 180 L 340 320 C 300 360, 160 360, 120 320 Z" fill="#111827"/>
+      <!-- left arm (holding bow) -->
+      <path d="M120 190 C 70 220, 40 280, 50 310" stroke="#111827" stroke-width="34" stroke-linecap="round" fill="none"/>
+      <!-- right arm (cradling instrument) -->
+      <path d="M340 190 C 420 220, 460 260, 460 300" stroke="#111827" stroke-width="34" stroke-linecap="round" fill="none"/>
+      <!-- instrument body (generic) -->
+      <g transform="translate(380,230) rotate(12)">
+        <ellipse cx="0" cy="0" rx="120" ry="58" fill="#0b74de" />
+        <rect x="-18" y="-80" width="36" height="160" rx="18" fill="#0b74de"/>
+        <!-- subtle highlight -->
+        <ellipse cx="-30" cy="-6" rx="40" ry="18" fill="#ffffff" opacity="0.06"/>
+      </g>
+      <!-- bow (held by left hand) -->
+      <rect x="10" y="245" width="320" height="12" rx="6" transform="rotate(-14 10 245)" fill="#7b8794"/>
+      <!-- small accent: music note -->
+      <g transform="translate(540,40) scale(0.9)">
+        <path d="M12 4v40c0 5 6 8 11 6 5-2 9-8 9-14V4h-20z" fill="#ff8a65"/>
+        <circle cx="26" cy="54" r="8" fill="#ff8a65"/>
+      </g>
+    </g>
+
+    <!-- caption -->
+    <text x="40" y="560" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial" font-size="28" fill="#0b74de">Musician (placeholder)</text>
+    <text x="40" y="600" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, Arial" font-size="16" fill="#6b7280">Use this anonymous image as a temporary placeholder for performer profiles.</text>
+  </g>
+</svg>
