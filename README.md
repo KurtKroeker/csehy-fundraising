@@ -1,4 +1,4 @@
-# CSEHY Fundraising - GitHub Pages site
+# Csehy Fundraising - GitHub Pages site
 
 This repository contains a minimal Jekyll scaffold for a mostly-static website to promote a benefit concert raising funds for four young musicians. The site is designed for GitHub Pages hosting.
 

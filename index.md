@@ -1,13 +1,16 @@
 ---
 layout: default
-title: CSEHY Benefit Concert
+title: Csehy Benefit Concert
 ---
 
 <section class="hero">
-  <h1>CSEHY Benefit Concert</h1>
+  <h1>Csehy Benefit Concert</h1>
   <p>Support four young musicians raising funds to attend summer music camp.</p>
   <p><strong>Date:</strong> <span id="event-date">TBD</span> &nbsp;|&nbsp; <strong>Venue:</strong> <span id="event-venue">TBD</span></p>
-  <p><a class="btn primary" href="#donate">Donate</a> <a class="btn secondary" href="/performers/">Meet the performers</a></p>
+  <p>
+    <a class="btn primary" href="#donate">Donate</a>
+    <a class="btn secondary" href="{{ '/performers/' | relative_url }}">Meet the performers</a>
+  </p>
 </section>
 
 <section class="about">
@@ -20,7 +23,7 @@ title: CSEHY Benefit Concert
   <ul>
     {% for p in site.data.performers %}
     <li class="performer-card">
-      <img src="/assets/images/{{ p.photo }}" alt="Photo of {{ p.name }}" loading="lazy">
+      <img src="{{ '/assets/images/' | append: p.photo | relative_url }}" alt="Photo of {{ p.name }}" loading="lazy">
       <div>
         <h3>{{ p.name }}</h3>
         <p class="instrument">{{ p.instrument }}</p>
@@ -29,7 +32,7 @@ title: CSEHY Benefit Concert
     </li>
     {% endfor %}
   </ul>
-  <p><a href="/performers/" class="btn tertiary">See all performers</a></p>
+  <p><a href="{{ '/performers/' | relative_url }}" class="btn tertiary">See all performers</a></p>
 </section>
 
 <section id="donate">
