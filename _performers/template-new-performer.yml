@@ -3,7 +3,7 @@ layout: performer
 title: "New Performer"
 name: "New Performer"
 instrument: "Instrument"
-photo: "example.jpg"
+photo: "placeholder-musician.svg"
 bio: >
   Short bio for the new performer. Replace this with a multi-line bio describing study, achievements, repertoire, and goals for camp.
 media_url: ""

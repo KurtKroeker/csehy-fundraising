@@ -33,6 +33,44 @@ Edit content directly in the GitHub web UI. Files to edit:
    - https://KurtKroeker.github.io/csehy-fundraising (project page) or
    - https://yourcustomdomain (if using CNAME and DNS configured)
 
+## Local preview (Windows)
+
+This repository includes a minimal `Gemfile` to make local Jekyll builds reproducible. Two simple ways to preview the site locally on Windows are shown below.
+
+Native Ruby + Bundler (PowerShell)
+
+1. Install Ruby for Windows (RubyInstaller) and the MSYS2 toolchain when prompted.
+2. From the project root open PowerShell and run:
+
+```powershell
+gem install bundler
+bundle install
+```
+
+3. Serve the site. Because `_config.yml` sets `baseurl: "/csehy-fundraising"` you can either serve with that baseurl (the site will be available at http://127.0.0.1:4000/csehy-fundraising/) or override it locally to preview at root:
+
+```powershell
+# serve with baseurl (final path includes /csehy-fundraising/)
+bundle exec jekyll serve --livereload
+
+# or serve at root for easier local preview (no suffix)
+bundle exec jekyll serve --livereload --baseurl ""
+```
+
+Docker (no Ruby install)
+
+If you have Docker Desktop, run this from the project root in PowerShell:
+
+```powershell
+docker run --rm -it -v ${PWD}:/srv/jekyll -p 4000:4000 jekyll/jekyll:4 jekyll serve --watch --baseurl ""
+```
+
+Open http://127.0.0.1:4000 in your browser (append `/csehy-fundraising/` if you served with the baseurl).
+
+Notes
+- The `Gemfile` in the repository pins `jekyll` and `webrick` for local development.
+- Ensure images referenced in `_data/performers.yml` and `_performers/*.yml` exist in `assets/images/`.
+
 ## Content checklist before launch
 
 - Hero image and/or logo (place in `assets/images/`)
