@@ -14,7 +14,7 @@
   instrument: Piano/Accordion/Voice
   photo: placeholder-musician.svg
   bio: 'Short bio for Josephine Kroeker.'
-- name: Example Student
-  instrument: Violin
-  photo: placeholder-musician.svg
-  bio: 'Example Student is a sample performer entry. Replace this entry or remove it when adding real performers.'
+# - name: Example Student
+#   instrument: Violin
+#   photo: placeholder-musician.svg
+#   bio: 'Example Student is a sample performer entry. Replace this entry or remove it when adding real performers.'
