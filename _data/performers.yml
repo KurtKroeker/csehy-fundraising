@@ -1,0 +1,16 @@
+- name: Elsa Krol
+  instrument: Flute/Piano/Voice
+  photo: elsa.jpg
+  bio: 'Short bio for Elsa Krol.'
+- name: Charlotte Krol
+  instrument: Percussion/Piano/Voice
+  photo: charlotte.jpg
+  bio: 'Short bio for Charlotte Krol.'
+- name: Alanna Krol
+  instrument: Piano/Clarinet/Voice
+  photo: alanna.jpg
+  bio: 'Short bio for Alanna Krol.'
+- name: Josephine Kroeker
+  instrument: Piano/Accordion/Voice
+  photo: josephine.jpg
+  bio: 'Short bio for Josephine Kroeker.'
