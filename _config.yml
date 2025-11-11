@@ -1,7 +1,9 @@
-title: Csehy Benefit Concert
+title: CSEHY Benefit Concert
 description: Benefit concert to raise funds for four young musicians to attend summer music camp.
-baseurl: "" # set to "" for user/organization pages; set to "/repo-name" if using project page
-url: "https://KurtKroeker.github.io/csehy-fundraising" # replace with final site URL or custom domain
+# For a project page, set baseurl to the repository name (leading slash)
+baseurl: "/csehy-fundraising"
+# URL of the site owner (user/org pages root)
+url: "https://KurtKroeker.github.io"
 markdown: kramdown
 collections:
   performers:
