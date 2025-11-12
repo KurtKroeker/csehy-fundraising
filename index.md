@@ -38,8 +38,32 @@ title: Csehy Benefit Concert
 
 <section id="donate">
   <h2>Donate</h2>
-  <p>We accept donations via an external donation page. Please click the Donate button to proceed.</p>
-  <p><a class="btn donate" href="https://example.org/donate" id="donate-btn" target="_blank" rel="noopener">Donate securely</a></p>
+  <p>We accept donations via the mobile and written options below. Please choose the method that's most convenient.</p>
+  
+  <h3>Quick Mobile Payments (QR codes)</h3>
+  <div class="payment-grid">
+    <div class="payment-card">
+      <h4>For Josephine Kroeker</h4>
+      <p>Venmo (to Kurt Kroeker on behalf of Josephine): <a href="https://venmo.com/KurtKroeker" target="_blank" rel="noopener">venmo.com/KurtKroeker</a></p>
+      <p><a href="https://venmo.com/KurtKroeker" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://venmo.com/KurtKroeker" alt="Venmo QR for KurtKroeker"></a></p>
+      <p>PayPal (to Kurt Kroeker on behalf of Josephine): <a href="https://paypal.me/kurtkroeker" target="_blank" rel="noopener">paypal.me/kurtkroeker</a></p>
+      <p><a href="https://paypal.me/kurtkroeker" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://paypal.me/kurtkroeker" alt="PayPal QR for kurtkroeker"></a></p>
+    </div>
+
+    <div class="payment-card">
+      <h4>For Elsa, Charlotte, and Alanna</h4>
+      <p>Venmo (to Erin Krol on their behalf): <a href="https://venmo.com/Erin-Krol-1" target="_blank" rel="noopener">venmo.com/Erin-Krol-1</a></p>
+      <p><a href="https://venmo.com/Erin-Krol-1" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://venmo.com/Erin-Krol-1" alt="Venmo QR for Erin-Krol-1"></a></p>
+      <p>PayPal: TBD — please contact the organizer for the PayPal link for donations to Erin Krol on behalf of Elsa, Charlotte, and Alanna.</p>
+    </div>
+  </div>
+
+  <h3>Written Checks</h3>
+  <p>Make checks payable to <strong>Kurt Kroeker</strong>. In the memo line, please indicate which performer(s) the check is for (for example, "For Josephine Kroeker"). If you prefer, checks for Elsa, Charlotte, or Alanna may also be made payable to <strong>Erin Krol</strong>; either way, please note the performer name(s) in the memo.</p>
+  <p>Mailing or drop-off instructions: contact the organizers at <a href="mailto:you@example.org">you@example.org</a> for the preferred mailing address or drop-off details.</p>
+
+  <h3>Cash Policy</h3>
+  <p>We gladly accept cash donations at the event. Please bring the exact amount if possible and include the donor name and intended performer(s). Receipts are available upon request. For larger donations, we encourage using an electronic payment method or contacting the organizers so we can provide an official receipt.</p>
 </section>
 
 <footer>
