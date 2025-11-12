@@ -2,11 +2,18 @@
 layout: performer
 title: "Elsa Krol"
 name: "Elsa Krol"
-instrument: "Flute/Piano/Voice"
-# photo: "placeholder-musician.svg"
+instrument: "Flute, Piano"
+photo: "placeholder-musician.svg"
 bio: >
-  Elsa Krol is a dedicated young musician studying flute, piano, and voice.
-  She has performed in community recitals and is excited to attend summer
-  music camp to expand her ensemble and solo experience.
+  Elsa Krol (flute, piano) is in 11th grade homeschool. She is involved in a
+  number of ensembles at State College Area High School, including Symphonic
+  Band, Marching Band, Symphony Orchestra, Master Singers, and Flute Choir. She
+  was selected to perform on piano in the 2024 PMEA District 4 Jazz Band and
+  on flute in the 2025 PMEA District Orchestra, District Band, Region Band, and
+  All-State Wind Ensemble. What she most enjoys about attending Csehy Summer
+  School of Music is all the practice time, the Christian instruction, the
+  music theory classes, and the dramatic improvement to her personal
+  musicianship. When she’s not playing music, she enjoys reading, writing,
+  goofing off with her siblings, babysitting, and playing board games.
 media_url: ""
 ---

@@ -1,11 +1,11 @@
 - name: Elsa Krol
-  instrument: Flute/Piano/Voice
+  instrument: Flute, Piano
   photo: placeholder-musician.svg
-  bio: 'Short bio for Elsa Krol.'
+  bio: '11th grade homeschool; flute & piano. Active in Symphonic Band, Marching Band, Symphony Orchestra, Master Singers, and Flute Choir. Selected for PMEA ensembles.'
 - name: Charlotte Krol
-  instrument: Percussion/Piano/Voice
+  instrument: Marimba, Piano
   photo: placeholder-musician.svg
-  bio: 'Short bio for Charlotte Krol.'
+  bio: '10th grade homeschool; marimba & piano. Participates in Symphonic Band, Marching Band, and Symphony Orchestra. Enjoys baseball, track, and reading.'
 - name: Alanna Krol
   instrument: Piano/Clarinet/Voice
   photo: placeholder-musician.svg

@@ -2,9 +2,14 @@
 layout: performer
 title: "Charlotte Krol"
 name: "Charlotte Krol"
-instrument: "Piano"
+instrument: "Marimba, Piano"
 photo: "placeholder-musician.svg"
 bio: >
-  Charlotte plays piano with dedication and has a love for chamber music. They enjoy improvisation and classical works alike and hope to sharpen their solo and ensemble skills at summer music camp.
+  Charlotte Krol (marimba, piano) is in 10th grade homeschool. She participates
+  in the Symphonic Band, Marching Band, and Symphony Orchestra at State College
+  Area High School. Charlotte is looking forward to attending Csehy this year
+  because of the fun musical groups, the expert instruction, and the Bible
+  classes. Charlotte enjoys reading fantasy, playing and umpiring baseball,
+  running track, being with friends, and playing ultimate frisbee.
 media_url: ""
 ---
