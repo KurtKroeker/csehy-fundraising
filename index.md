@@ -6,8 +6,8 @@ title: Csehy Benefit Concert
 <section class="hero">
   <h1>Csehy Benefit Concert</h1>
   <p>Support four young musicians raising funds to attend summer music camp.</p>
-  <p><strong>Date:</strong> <span id="event-date">Tuesday, January 20, 2026 at 7:00 P.M. (EST)</span> &nbsp;|&nbsp; <strong>Venue:</strong> <span id="event-venue">Oakwood Presbyterian Church</span></p>
-  <p style="font-size: 0.95em; margin-top: 0.5rem;"><strong>Address:</strong> 1865 Waddle Rd, State College, PA 16803</p>
+  <p><strong>Date:</strong> <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Csehy+Benefit+Concert&dates=20260120T190000Z/20260120T210000Z&details=Support+four+young+musicians+raising+funds+to+attend+summer+music+camp.&location=1865+Waddle+Rd,+State+College,+PA+16803&ctz=America/New_York" target="_blank" rel="noopener" id="event-date" style="text-decoration: underline;">Tuesday, January 20, 2026 at 7:00 P.M. (EST)</a> &nbsp;|&nbsp; <strong>Venue:</strong> <a href="https://www.google.com/maps/dir/?api=1&destination=1865+Waddle+Rd,+State+College,+PA+16803" target="_blank" rel="noopener" id="event-venue" style="text-decoration: underline;">Oakwood Presbyterian Church</a></p>
+  <p style="font-size: 0.95em; margin-top: 0.5rem;"><strong>Address:</strong> <a href="https://www.google.com/maps/search/1865+Waddle+Rd,+State+College,+PA+16803" target="_blank" rel="noopener" style="text-decoration: underline;">1865 Waddle Rd, State College, PA 16803</a></p>
   <p>
     <a class="btn primary" href="#donate">Donate</a>
     <a class="btn secondary" href="{{ '/performers/' | relative_url }}">Meet the performers</a>
