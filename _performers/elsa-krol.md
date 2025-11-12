@@ -15,5 +15,5 @@ bio: >
   music theory classes, and the dramatic improvement to her personal
   musicianship. When she’s not playing music, she enjoys reading, writing,
   goofing off with her siblings, babysitting, and playing board games.
-media_url: ""
+media_url: "https://www.youtube.com/watch?v=VWk8kSxAoHQ&list=PL1oCuRcw0OIc5v8YtzmHuDf_GKeOBLr43&index=6"
 ---

@@ -11,5 +11,5 @@ bio: >
   because of the fun musical groups, the expert instruction, and the Bible
   classes. Charlotte enjoys reading fantasy, playing and umpiring baseball,
   running track, being with friends, and playing ultimate frisbee.
-media_url: ""
+media_url: "https://www.youtube.com/watch?v=B2H5RhKpStI&list=PL1oCuRcw0OIc5v8YtzmHuDf_GKeOBLr43&index=3"
 ---
