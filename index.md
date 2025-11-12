@@ -6,7 +6,8 @@ title: Csehy Benefit Concert
 <section class="hero">
   <h1>Csehy Benefit Concert</h1>
   <p>Support four young musicians raising funds to attend summer music camp.</p>
-  <p><strong>Date:</strong> <span id="event-date">TBD</span> &nbsp;|&nbsp; <strong>Venue:</strong> <span id="event-venue">TBD</span></p>
+  <p><strong>Date:</strong> <span id="event-date">Tuesday, January 20, 2026 at 7:00 P.M. (EST)</span> &nbsp;|&nbsp; <strong>Venue:</strong> <span id="event-venue">Oakwood Presbyterian Church</span></p>
+  <p style="font-size: 0.95em; margin-top: 0.5rem;"><strong>Address:</strong> 1865 Waddle Rd, State College, PA 16803</p>
   <p>
     <a class="btn primary" href="#donate">Donate</a>
     <a class="btn secondary" href="{{ '/performers/' | relative_url }}">Meet the performers</a>
