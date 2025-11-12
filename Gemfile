@@ -5,8 +5,5 @@ gem "jekyll", "~> 4.2"
 # webrick may be required on newer Ruby versions
 gem "webrick"
 
-# Theme
-gem "minimal-music-project"
-
 # If you prefer GitHub Pages' exact environment, replace the above with:
 # gem "github-pages", group: :jekyll_plugins

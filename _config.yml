@@ -6,9 +6,6 @@ baseurl: "/csehy-fundraising"
 url: "https://KurtKroeker.github.io"
 markdown: kramdown
 
-# Theme
-remote_theme: ItsPatrq/minimal-music-project
-
 collections:
   performers:
     output: true
