@@ -5,6 +5,10 @@ baseurl: "/csehy-fundraising"
 # URL of the site owner (user/org pages root)
 url: "https://KurtKroeker.github.io"
 markdown: kramdown
+
+# Theme
+remote_theme: ItsPatrq/minimal-music-project
+
 collections:
   performers:
     output: true
