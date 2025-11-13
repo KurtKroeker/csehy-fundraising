@@ -1,6 +1,7 @@
 ---
 layout: program
 title: Concert Program
+permalink: /program/
 ---
 
 # Concert Program
