@@ -1,0 +1,70 @@
+title: "Csehy Benefit Concert Program"
+date: "Tuesday, January 20, 2026"
+time: "7:00 P.M."
+venue: "Oakwood Presbyterian Church"
+address: "1865 Waddle Rd, State College, PA 16803"
+
+sections:
+  - title: "Part I"
+    items:
+      - title: "Piano Solo"
+        performer: "Josephine Kroeker"
+        
+      - title: "Piano Accompaniment"
+        performer: "Josephine Kroeker"
+        notes: "Accompanying other performers"
+        
+      - title: "Flute Solo"
+        performer: "Elsa Krol"
+        
+      - title: "Flute Quartet"
+        performers:
+          - "Elsa Krol"
+          - "Susan Kroeker"
+          - "Cathy Herrera"
+          - "Yidi Zhang"
+          
+      - title: "Piano Solo"
+        performer: "Elsa Krol"
+        
+      - title: "Marimba Solo"
+        performer: "Charlotte Krol"
+        
+      - title: "Piano Solo"
+        performer: "Charlotte Krol"
+        
+      - title: "Piano Solo"
+        performer: "Alanna Krol"
+        notes: "with vocals"
+        
+      - title: "Clarinet Solo"
+        performer: "Alanna Krol"
+        accompaniment: "Elsa Krol, piano"
+        
+  - title: "Intermission"
+    
+  - title: "Part II"
+    items:
+      - title: "Vocal Quartet"
+        performers:
+          - "Elsa Krol"
+          - "Charlotte Krol"
+          - "Alanna Krol"
+          - "Josephine Kroeker"
+          
+      - title: "Male Barbershop Quartet"
+        performers:
+          - "Kurt Kroeker"
+          - "Peter Krol"
+          - "Barry Kroeker"
+          - "Jeremy"
+          
+      - title: "Violin Solo"
+        performer: "Kurt Kroeker"
+        
+      - title: "Celtic Tunes"
+        performers:
+          - "Elsa Krol, flute"
+          - "Charlotte Krol, percussion"
+          - "Alanna Krol, piano"
+          - "Kurt Kroeker, violin, guitar, whistle"

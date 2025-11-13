@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="Concert program for the Csehy Benefit Concert">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <style>
+    .program-container {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    
+    .program-header {
+      text-align: center;
+      margin-bottom: 2rem;
+      border-bottom: 2px solid #333;
+      padding-bottom: 1.5rem;
+    }
+    
+    .program-header h1 {
+      margin-bottom: 0.5rem;
+    }
+    
+    .program-info {
+      font-size: 0.95em;
+      color: #666;
+      margin-bottom: 0.5rem;
+    }
+    
+    .program-section {
+      margin: 2rem 0;
+    }
+    
+    .program-section h2 {
+      border-top: 1px solid #ddd;
+      padding-top: 1rem;
+      margin-top: 1rem;
+    }
+    
+    .program-item {
+      margin: 1.5rem 0;
+      padding-left: 1rem;
+      border-left: 3px solid #ddd;
+    }
+    
+    .program-item h3 {
+      margin: 0.25rem 0;
+      font-size: 1.1em;
+    }
+    
+    .program-item .performer {
+      font-weight: 600;
+      color: #333;
+      margin: 0.25rem 0;
+    }
+    
+    .program-item .performers-list {
+      margin: 0.5rem 0;
+    }
+    
+    .program-item .performers-list li {
+      margin: 0.25rem 0;
+    }
+    
+    .program-item .accompaniment {
+      font-style: italic;
+      color: #666;
+      margin: 0.25rem 0;
+    }
+    
+    .program-item .notes {
+      font-style: italic;
+      color: #666;
+      margin: 0.25rem 0;
+    }
+    
+    .back-link {
+      display: inline-block;
+      margin-bottom: 1rem;
+      font-size: 0.95em;
+    }
+  </style>
+</head>
+<body>
+  <main class="container program-container">
+    <div class="back-link">
+      <a href="{{ '/' | relative_url }}">← Back to home</a>
+    </div>
+    
+    <div class="program-header">
+      <h1>{{ site.data.program.title }}</h1>
+      <div class="program-info">
+        <strong>{{ site.data.program.date }}</strong> at <strong>{{ site.data.program.time }}</strong>
+      </div>
+      <div class="program-info">
+        <strong>{{ site.data.program.venue }}</strong>
+      </div>
+      <div class="program-info">
+        {{ site.data.program.address }}
+      </div>
+    </div>
+    
+    {% for section in site.data.program.sections %}
+      {% if section.title == "Intermission" %}
+        <div class="program-section intermission">
+          <h2>🎭 Intermission</h2>
+        </div>
+      {% else %}
+        <div class="program-section">
+          <h2>{{ section.title }}</h2>
+          
+          {% if section.items %}
+            {% for item in section.items %}
+              <div class="program-item">
+                <h3>{{ item.title }}</h3>
+                
+                {% if item.performer %}
+                  <div class="performer">{{ item.performer }}</div>
+                {% endif %}
+                
+                {% if item.performers %}
+                  <ul class="performers-list">
+                    {% for perf in item.performers %}
+                      <li>{{ perf }}</li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+                
+                {% if item.accompaniment %}
+                  <div class="accompaniment">{{ item.accompaniment }}</div>
+                {% endif %}
+                
+                {% if item.notes %}
+                  <div class="notes">{{ item.notes }}</div>
+                {% endif %}
+              </div>
+            {% endfor %}
+          {% endif %}
+        </div>
+      {% endif %}
+    {% endfor %}
+    
+    <div style="margin-top: 3rem; padding-top: 2rem; border-top: 2px solid #ddd; text-align: center;">
+      <p><strong>Thank you for supporting our young musicians!</strong></p>
+      <p><a href="{{ '/#donate' | relative_url }}" class="btn primary">Make a Donation</a></p>
+    </div>
+  </main>
+</body>
+</html>

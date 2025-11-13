@@ -10,6 +10,7 @@ title: Csehy Benefit Concert
   <p style="font-size: 0.95em; margin-top: 0.5rem;"><strong>Address:</strong> <a href="https://www.google.com/maps/search/1865+Waddle+Rd,+State+College,+PA+16803" target="_blank" rel="noopener" style="text-decoration: underline;">1865 Waddle Rd, State College, PA 16803</a></p>
   <p>
     <a class="btn primary" href="#donate">Donate</a>
+    <a class="btn secondary" href="{{ '/program/' | relative_url }}">Concert Program</a>
     <a class="btn secondary" href="{{ '/performers/' | relative_url }}">Meet the performers</a>
   </p>
 </section>
