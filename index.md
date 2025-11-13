@@ -55,7 +55,8 @@ title: Csehy Benefit Concert
       <h4>For Elsa, Charlotte, and Alanna</h4>
       <p>Venmo (to Erin Krol on their behalf): <a href="https://venmo.com/Erin-Krol-1" target="_blank" rel="noopener">venmo.com/Erin-Krol-1</a></p>
       <p><a href="https://venmo.com/Erin-Krol-1" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://venmo.com/Erin-Krol-1" alt="Venmo QR for Erin-Krol-1"></a></p>
-      <p>PayPal: TBD — please contact the organizer for the PayPal link for donations to Erin Krol on behalf of Elsa, Charlotte, and Alanna.</p>
+      <p>PayPal: <a href="https://www.paypal.com/paypalme/krolpeter" target="_blank" rel="noopener">paypal.com/paypalme/krolpeter</a></p>
+      <p><a href="https://www.paypal.com/paypalme/krolpeter" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.paypal.com/paypalme/krolpeter" alt="PayPal QR for krolpeter"></a></p>
     </div>
   </div>
 
