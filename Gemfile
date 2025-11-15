@@ -6,7 +6,7 @@ gem "jekyll", "~> 4.2"
 gem "webrick"
 
 # Jekyll theme
-gem "minima", "~> 2.5"
+gem "minima"
 
 # If you prefer GitHub Pages' exact environment, replace the above with:
 # gem "github-pages", group: :jekyll_plugins

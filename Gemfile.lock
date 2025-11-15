@@ -90,7 +90,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.2)
-  minima (~> 2.5)
+  minima
   webrick
 
 BUNDLED WITH
