@@ -5,6 +5,7 @@ baseurl: "/csehy-fundraising"
 # URL of the site owner (user/org pages root)
 url: "https://KurtKroeker.github.io"
 markdown: kramdown
+theme: minima
 
 collections:
   performers:
