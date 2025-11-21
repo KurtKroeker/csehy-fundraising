@@ -15,7 +15,9 @@ body {
     line-height: 1.4;
     color: #111;
     margin: 0;
-    background: #fff
+    /* background: #fff */
+    background-image: url('../images/music-notes-background.jpg');
+    background-repeat: repeat;
 }
 
 a {
@@ -25,7 +27,8 @@ a {
 .container {
     max-width: var(--maxw);
     margin: 0 auto;
-    padding: 1rem
+    padding: 1rem;
+    background-color: #ffffff;
 }
 
 .hero {

@@ -3,7 +3,7 @@ layout: performer
 title: "Charlotte Krol"
 name: "Charlotte Krol"
 instrument: "Marimba, Piano"
-photo: "placeholder-musician.svg"
+photo: "Charlotte-headshot-orig.jpg"
 bio: >
   Charlotte Krol (marimba, piano) is in 10th grade homeschool. She participates
   in the Symphonic Band, Marching Band, and Symphony Orchestra at State College

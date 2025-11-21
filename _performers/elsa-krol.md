@@ -3,7 +3,7 @@ layout: performer
 title: "Elsa Krol"
 name: "Elsa Krol"
 instrument: "Flute, Piano"
-photo: "placeholder-musician.svg"
+photo: "Elsa-headshot-orig.jpg"
 bio: >
   Elsa Krol (flute, piano) is in 11th grade homeschool. She is involved in a
   number of ensembles at State College Area High School, including Symphonic
