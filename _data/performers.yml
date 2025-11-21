@@ -1,19 +1,19 @@
 - name: Elsa Krol
   instrument: Flute, Piano
-  photo: placeholder-musician.svg
+  photo: Elsa-headshot-orig.jpg
   bio: '11th grade homeschool; flute & piano. Active in Symphonic Band, Marching Band, Symphony Orchestra, Master Singers, and Flute Choir. Selected for PMEA ensembles.'
 - name: Charlotte Krol
   instrument: Marimba, Piano
-  photo: placeholder-musician.svg
+  photo: Charlotte-headshot-orig.jpg
   bio: '10th grade homeschool; marimba & piano. Participates in Symphonic Band, Marching Band, and Symphony Orchestra. Enjoys baseball, track, and reading.'
 - name: Alanna Krol
   instrument: Piano/Clarinet/Voice
-  photo: placeholder-musician.svg
-  bio: 'Short bio for Alanna Krol.'
+  photo: Alanna-headshot-orig.jpg
+  bio: '6th grade homeschool; piano & clarinet. Sings in Nittany Valley Children’s Choir as part of Blue Choir and Concordia. Loves drama.'
 - name: Josephine Kroeker
   instrument: Piano/Accordion/Voice
-  photo: josephine-accordion.jpg
-  bio: 'Short bio for Josephine Kroeker.'
+  photo: Josie-headshot-orig.jpg
+  bio: '7th grade homeschool; piano & accordion. Sings in Nittany Valley Children’s Choir as part of Blue Choir and Concordia. Self-taught accordionist. Enjoys art and audiobooks.'
 # - name: Example Student
 #   instrument: Violin
 #   photo: placeholder-musician.svg
