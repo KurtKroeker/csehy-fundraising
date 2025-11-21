@@ -71,7 +71,7 @@ a {
 .performer-card img {
     width: 72px;
     height: 72px;
-    object-fit: cover;
+    object-fit: contain;
     border-radius: 8px
 }
 
