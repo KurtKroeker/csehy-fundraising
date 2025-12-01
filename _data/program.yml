@@ -7,12 +7,13 @@ address: "1865 Waddle Rd, State College, PA 16803"
 sections:
   - title: "Part I"
     items:
-      - title: "Piano Solo"
+      - title: "Inventio 1"
         performer: "Josephine Kroeker"
+        notes: "Johann Sebastian Bach"
         
-      - title: "Piano Accompaniment"
+      - title: "Ariette"
         performer: "Josephine Kroeker"
-        notes: "Accompanying other performers"
+        notes: "Reinhold Moritzovich Gliere"
         
       - title: "Flute Solo"
         performer: "Elsa Krol"
