@@ -67,5 +67,5 @@ title: Csehy Benefit Concert
 </section>
 
 <footer>
-  <p>Contact: <a href="mailto:you@example.org">you@example.org</a></p>
+  <p>Last Updated: 12/01/2025</p>
 </footer>
