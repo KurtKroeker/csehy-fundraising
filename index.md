@@ -63,8 +63,8 @@ title: Csehy Benefit Concert
   <h3>Written Checks</h3>
   <p>If you prefer to mail a check to the family you wish to support, please make the check payable to <strong>Csehy Summer School of Music</strong> and write <strong>"Kroeker camper fees"</strong> or <strong>"Krol camper fees"</strong> in the memo.</p>
 
-  <h3>Cash Policy</h3>
-  <p>We gladly accept cash donations at the event. Please bring the exact amount if possible and include the donor name and intended performer(s). Receipts are available upon request. For larger donations, we encourage using an electronic payment method or contacting the organizers so we can provide an official receipt.</p>
+  <h3>At the Recital</h3>
+  <p>Two boxes (one for each family) are available in the back of the performance hall for cash or check donations. Please make checks payable to <strong>Csehy Summer School of Music</strong> and write <strong>"Krol camper fees</strong> or <strong>"Kroeker camper fees"</strong> in the memo.</p>
 </section>
 
 <footer>
