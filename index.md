@@ -61,8 +61,7 @@ title: Csehy Benefit Concert
   </div>
 
   <h3>Written Checks</h3>
-  <p>Make checks payable to <strong>Kurt Kroeker</strong>. In the memo line, please indicate which performer(s) the check is for (for example, "For Josephine Kroeker"). If you prefer, checks for Elsa, Charlotte, or Alanna may also be made payable to <strong>Erin Krol</strong>; either way, please note the performer name(s) in the memo.</p>
-  <p>Mailing or drop-off instructions: contact the organizers at <a href="mailto:you@example.org">you@example.org</a> for the preferred mailing address or drop-off details.</p>
+  <p>If you prefer to mail a check to the family you wish to support, please make the check payable to <strong>Csehy Summer School of Music</strong> and write <strong>"Kroeker camper fees"</strong> or <strong>"Krol camper fees"</strong> in the memo.</p>
 
   <h3>Cash Policy</h3>
   <p>We gladly accept cash donations at the event. Please bring the exact amount if possible and include the donor name and intended performer(s). Receipts are available upon request. For larger donations, we encourage using an electronic payment method or contacting the organizers so we can provide an official receipt.</p>
