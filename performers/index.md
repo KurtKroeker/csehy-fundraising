@@ -5,7 +5,7 @@ title: Performers
 
 # Performers
 
-Below are the four musicians performing at the benefit concert. Click a card to view the full bio and any media.
+Below are student and volunteer musicians performing at the benefit concert. Click a card to view the full bio and any media.
 
 <ul style="padding:0;list-style:none;">
 {% for performer in site.performers %}
