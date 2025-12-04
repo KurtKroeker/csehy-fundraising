@@ -21,7 +21,7 @@ title: Csehy Benefit Concert
 </section>
 
 <section id="performers-preview">
-  <h2>Performers</h2>
+  <h2>Student Performers</h2>
   <ul>
     {% for p in site.data.performers %}
     <li class="performer-card">
