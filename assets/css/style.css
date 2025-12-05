@@ -16,8 +16,12 @@ body {
     color: #111;
     margin: 0;
     /* background: #fff */
-    background-image: url('../images/music-notes-background-10pct.jpg');
+    /* background-image: url('../images/music-notes-background-10pct.jpg'); */    
     background-repeat: repeat;
+}
+
+main {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
 a {
