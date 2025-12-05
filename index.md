@@ -44,8 +44,8 @@ title: Csehy Benefit Concert
   
   <h3>Quick Mobile Payments (QR codes)</h3>
   <div class="payment-grid">
+    <h4>For Josephine Kroeker</h4>
     <div class="payment-card">
-      <h4>For Josephine Kroeker</h4>
       <div class="qr-container">
         <p><a href="https://venmo.com/KurtKroeker" target="_blank" rel="noopener">Venmo</a></p>
         <p><a href="https://venmo.com/KurtKroeker" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://venmo.com/KurtKroeker" alt="Venmo QR for KurtKroeker"></a></p>
@@ -55,8 +55,8 @@ title: Csehy Benefit Concert
         <p><a href="https://paypal.me/kurtkroeker" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://paypal.me/kurtkroeker" alt="PayPal QR for kurtkroeker"></a></p>
       </div>
     </div>
+    <h4>For Elsa, Charlotte, and Alanna</h4>
     <div class="payment-card">
-      <h4>For Elsa, Charlotte, and Alanna</h4>
       <div class="qr-container">
         <p><a href="https://venmo.com/Erin-Krol-1" target="_blank" rel="noopener">Venmo</a></p>
         <p><a href="https://venmo.com/Erin-Krol-1" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://venmo.com/Erin-Krol-1" alt="Venmo QR for Erin-Krol-1"></a></p>

@@ -50,6 +50,12 @@ a {
     width: 100%;
 }
 
+.payment-card {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
 .btn {
     display: inline-block;
     padding: .6rem 1rem;
