@@ -42,8 +42,8 @@ a {
 }
 
 .hero img.banner-img {
-    height: 250px;
     border-radius: 10px;
+    width: 100%;
 }
 
 .btn {
