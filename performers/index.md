@@ -3,6 +3,10 @@ layout: default
 title: Performers
 ---
 
+<nav style="margin:0 0 1rem 0;">
+  <a href="{{ '/' | relative_url }}">Home</a>
+</nav>
+
 # Performers
 
 Below are student and volunteer musicians performing at the benefit concert. Click a card to view the full bio and any media.
