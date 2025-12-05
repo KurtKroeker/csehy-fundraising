@@ -41,6 +41,10 @@ a {
     margin: .2rem 0
 }
 
+.hero img.banner-img {
+    height: 250px;
+}
+
 .btn {
     display: inline-block;
     padding: .6rem 1rem;
