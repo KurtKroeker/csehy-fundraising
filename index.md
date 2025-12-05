@@ -48,22 +48,22 @@ title: Csehy Benefit Concert
     <div class="payment-card">
       <div class="qr-container">
         <p><a href="https://venmo.com/KurtKroeker" target="_blank" rel="noopener">Venmo</a></p>
-        <p><a href="https://venmo.com/KurtKroeker" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://venmo.com/KurtKroeker" alt="Venmo QR for KurtKroeker"></a></p>
+        <p><a href="https://venmo.com/KurtKroeker" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://venmo.com/KurtKroeker" alt="Venmo QR for KurtKroeker"></a></p>
       </div>
       <div class="qr-container">
         <p><a href="https://paypal.me/kurtkroeker" target="_blank" rel="noopener">PayPal</a></p>
-        <p><a href="https://paypal.me/kurtkroeker" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://paypal.me/kurtkroeker" alt="PayPal QR for kurtkroeker"></a></p>
+        <p><a href="https://paypal.me/kurtkroeker" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://paypal.me/kurtkroeker" alt="PayPal QR for kurtkroeker"></a></p>
       </div>
     </div>
     <h4>For Elsa, Charlotte, and Alanna</h4>
     <div class="payment-card">
       <div class="qr-container">
         <p><a href="https://venmo.com/Erin-Krol-1" target="_blank" rel="noopener">Venmo</a></p>
-        <p><a href="https://venmo.com/Erin-Krol-1" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://venmo.com/Erin-Krol-1" alt="Venmo QR for Erin-Krol-1"></a></p>
+        <p><a href="https://venmo.com/Erin-Krol-1" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://venmo.com/Erin-Krol-1" alt="Venmo QR for Erin-Krol-1"></a></p>
       </div>
       <div class="qr-container">
         <p><a href="https://www.paypal.com/paypalme/krolpeter" target="_blank" rel="noopener">PayPal</a></p>
-        <p><a href="https://www.paypal.com/paypalme/krolpeter" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.paypal.com/paypalme/krolpeter" alt="PayPal QR for krolpeter"></a></p>
+        <p><a href="https://www.paypal.com/paypalme/krolpeter" target="_blank" rel="noopener"><img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https://www.paypal.com/paypalme/krolpeter" alt="PayPal QR for krolpeter"></a></p>
       </div>
     </div>
   </div>
