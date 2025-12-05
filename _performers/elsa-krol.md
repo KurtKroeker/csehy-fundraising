@@ -2,7 +2,7 @@
 layout: performer
 title: "Elsa Krol"
 name: "Elsa Krol"
-instrument: "Flute, Piano"
+instrument: "Flute, Piano, Voice"
 photo: "Elsa-headshot-orig.jpg"
 bio: >
   Elsa Krol (flute, piano) is in 11th grade homeschool. She is involved in a
