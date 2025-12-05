@@ -76,5 +76,5 @@ title: Csehy Benefit Concert
 </section>
 
 <footer>
-  <p>Last Updated: 12/01/2025</p>
+  <!-- nothing to see here -->
 </footer>
