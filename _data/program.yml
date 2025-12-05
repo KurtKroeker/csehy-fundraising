@@ -15,8 +15,19 @@ sections:
         performer: "Josephine Kroeker"
         notes: "Reinhold Moritzovich Gliere"
         
-      - title: "Flute Solo"
+      - title: "Piano Solo"
         performer: "Elsa Krol"
+
+      - title: "Piano Solo"
+        performer: "Charlotte Krol"
+
+      - title: "Piano Solo"
+        performer: "Alanna Krol"
+
+      - title: "Flute Solo"
+        performers: 
+          - "Elsa Krol"
+          - "???"
         
       - title: "Flute Quartet"
         performers:
@@ -25,47 +36,38 @@ sections:
           - "Cathy Herrera"
           - "Yidi Zhang"
           
-      - title: "Piano Solo"
-        performer: "Elsa Krol"
+      - title: "Saxophone Duet"
+        performers: 
+          - "Mona Chang"
+          - "Lance Welch"
         
       - title: "Marimba Solo"
         performer: "Charlotte Krol"
         
-      - title: "Piano Solo"
-        performer: "Charlotte Krol"
+      - title: "Clarinet with piano"
+        performers: 
+          - "Alanna Krol"
+          - "Elsa Krol"          
         
-      - title: "Piano Solo"
-        performer: "Alanna Krol"
-        notes: "with vocals"
-        
-      - title: "Clarinet Solo"
-        performer: "Alanna Krol"
-        accompaniment: "Elsa Krol, piano"
-        
-  - title: "Intermission"
-    
-  - title: "Part II"
-    items:
-      - title: "Vocal Quartet"
-        performers:
+      - title: "L'Abeille (The Bee)"
+        performers: 
+          - "Kurt Kroeker"
+          - "Steve Baird"
+        notes: "François Schubert"
+      
+      - title: "Another short piece"
+        performers: 
+          - "Kurt Kroeker"
+          - "Steve Baird"
+        notes: "TBD"
+
+      - title: "Celtic Medley - The Road to Lisdoonvarna/The Rakes of Kildare/Smash the Windows/The Laird of Drumblair/The Flowers of Edinburgh/St. Anne's Reel"
+        performers: 
+          - "Kurt Kroeker"
+          - "Josephine Kroeker"
           - "Elsa Krol"
           - "Charlotte Krol"
           - "Alanna Krol"
-          - "Josephine Kroeker"
-          
-      - title: "Male Barbershop Quartet"
-        performers:
-          - "Kurt Kroeker"
-          - "Peter Krol"
-          - "Barry Kroeker"
-          - "Jeremy"
-          
-      - title: "Violin Solo"
-        performer: "Kurt Kroeker"
+        notes: "arr. Kurt Kroeker"
         
-      - title: "Celtic Tunes"
-        performers:
-          - "Elsa Krol, flute"
-          - "Charlotte Krol, percussion"
-          - "Alanna Krol, piano"
-          - "Kurt Kroeker, violin, guitar, whistle"
+  - title: "fine"
