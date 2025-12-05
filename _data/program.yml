@@ -17,17 +17,21 @@ sections:
         
       - title: "Piano Solo"
         performer: "Elsa Krol"
+        notes: "TBD"
 
       - title: "Piano Solo"
         performer: "Charlotte Krol"
+        notes: "TBD"
 
       - title: "Piano Solo"
         performer: "Alanna Krol"
+        notes: "TBD"
 
       - title: "Flute Solo"
         performers: 
           - "Elsa Krol"
           - "???"
+        notes: "TBD"
         
       - title: "Flute Quartet"
         performers:
@@ -35,19 +39,23 @@ sections:
           - "Susan Kroeker"
           - "Cathy Herrera"
           - "Yidi Zhang"
+        notes: "TBD"
           
       - title: "Saxophone Duet"
         performers: 
           - "Mona Chang"
           - "Lance Welch"
+        notes: "TBD"
         
       - title: "Marimba Solo"
         performer: "Charlotte Krol"
+        notes: "TBD"
         
       - title: "Clarinet with piano"
         performers: 
           - "Alanna Krol"
           - "Elsa Krol"          
+        notes: "TBD"
         
       - title: "L'Abeille (The Bee)"
         performers: 
