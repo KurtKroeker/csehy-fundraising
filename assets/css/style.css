@@ -57,6 +57,10 @@ a {
     justify-content: center;
 }
 
+.qr-container p {
+    text-align: center;
+}
+
 .btn {
     display: inline-block;
     padding: .6rem 1rem;
