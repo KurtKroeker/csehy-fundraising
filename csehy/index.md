@@ -9,7 +9,7 @@ title: About Csehy
 
 # Csehy Summer School of Music
 
-<div style="background-color: #025182">
+<div style="background-color: #025182; border-radius: 10px; padding: 5px;">
   <a href="https://csehy.org/">
     <img src="https://images.squarespace-cdn.com/content/v1/56e24ed3d210b81d3c68d31a/1479448757936-G7GYCV38UCXR55ZKA0IE/csehy_logo_wdesc_rev.png?format=1500w" alt="Csehy logo">
   </a>
