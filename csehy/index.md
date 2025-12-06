@@ -13,8 +13,8 @@ title: About Csehy
   <a href="https://csehy.org/">
     <img src="https://images.squarespace-cdn.com/content/v1/56e24ed3d210b81d3c68d31a/1479448757936-G7GYCV38UCXR55ZKA0IE/csehy_logo_wdesc_rev.png?format=1500w" alt="Csehy logo">
   </a>
-  <div style="padding-left: 10px; color: #fff;">
-    <a href="https://csehy.org/">Visit the Official Csehy Website</a>
+  <div style="padding-left: 10px;">
+    <a href="https://csehy.org/" style="color: #fff;">Visit the Official Csehy Website</a>
   </div>
 </div>
 
