@@ -38,14 +38,17 @@ sections:
           - "Elsa Krol"
           - "Susan Kroeker"
           - "Cathy Herrera"
-          - "Yidi Zhang"
+          - "Grace Yang"
         notes: "TBD"
           
-      - title: "Saxophone Duet"
+      - title: "Sonate en Ut for Two Saxophones"
         performers: 
           - "Mona Chang"
           - "Lance Welch"
-        notes: "TBD"
+        notes: "Jen-Marie LeClair, adapted by Jean-Marie Londeix"
+        notes: "Allegro"
+        notes: "Sarabanda largo"
+        notes: "Allegro"
         
       - title: "Marimba Solo"
         performer: "Charlotte Krol"
