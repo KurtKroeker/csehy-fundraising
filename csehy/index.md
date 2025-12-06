@@ -7,9 +7,16 @@ title: About Csehy
   <a href="{{ '/' | relative_url }}">Home</a>
 </nav>
 
-# Csehy Summer School of Music ([Official Website](https://csehy.org/))
+# Csehy Summer School of Music
 
-<img src="https://images.squarespace-cdn.com/content/v1/56e24ed3d210b81d3c68d31a/1479448757936-G7GYCV38UCXR55ZKA0IE/csehy_logo_wdesc_rev.png?format=1500w" alt="Csehy logo">
+<div style="background-color: #025182">
+  <a href="https://csehy.org/">
+    <img src="https://images.squarespace-cdn.com/content/v1/56e24ed3d210b81d3c68d31a/1479448757936-G7GYCV38UCXR55ZKA0IE/csehy_logo_wdesc_rev.png?format=1500w" alt="Csehy logo">
+  </a>
+  <div>
+    <a src="https://csehy.org/">Visit the Official Csehy Website</a>
+  </div>
+</div>
 
 Csehy (pronounced “CHAY-hee”) Summer School of Music exists to honor, praise and serve our Lord Jesus Christ by providing a Christian context and a spiritual emphasis for the study of superior classical and sacred music for junior and senior high school students. Through musical ensembles and private lessons, campers engage daily with highly-qualified faculty from colleges and orchestras across the country. Faculty challenge campers to higher levels of performance while nurturing their Christian faith.
 
