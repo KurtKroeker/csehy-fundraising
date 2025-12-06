@@ -1,7 +1,7 @@
 ---
 layout: performer
-title: "Yidi Zhang"
-name: "Yidi Zhang"
+title: "Grace Yang"
+name: "Grace Yang"
 instrument: "Flute"
 photo: "placeholder-person.png"
 bio: >
