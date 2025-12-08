@@ -104,3 +104,21 @@ a {
         padding: 1rem
     }
 }
+
+/* csehy page */
+#csehy-img {
+    background-color: #025182; 
+    border-radius: 10px; 
+    padding: 5px;    
+}
+
+#csehy-img img {
+    width: 295px;
+}
+
+/* Styles applied when the viewport width is 767px or less */
+@media screen and (max-width: 350px) {
+  #csehy-img img {
+    width: 100%; /* Example: make it full width on smaller screens */
+  }
+}
