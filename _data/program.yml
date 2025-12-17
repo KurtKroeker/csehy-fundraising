@@ -7,38 +7,44 @@ address: "1865 Waddle Rd, State College, PA 16803"
 sections:
   - title: "Part I"
     items:
-      - title: "Inventio 1"
+      - title: "Invention No. 1 in C major, BWV 772"
         performer: "Josephine Kroeker"
         notes: "Johann Sebastian Bach"
         
-      - title: "Ariette"
+      - title: "Arietta, Op. 43, No. 7"
         performer: "Josephine Kroeker"
         notes: "Reinhold Moritzovich Gliere"
         
-      - title: "Piano Solo"
+      - title: "Nocturne in E-flat major, Op. 9, No. 2"
         performer: "Elsa Krol"
-        notes: "TBD"
+        notes: "Frederic Chopin"
 
-      - title: "Piano Solo"
+      - title: "Wedding Day at Troldhaugen, Op. 65, No. 6"
         performer: "Charlotte Krol"
-        notes: "TBD"
+        notes: "Edvard Grieg"
 
-      - title: "Piano Solo"
+      - title: "Amazing Grace"
         performer: "Alanna Krol"
-        notes: "TBD"
+        notes: "Traditional, arr. Dennis Alexander"
 
-      - title: "Flute Solo"
-        performers: 
-          - "Elsa Krol"
-          - "???"
-        notes: "TBD"
+      - title: "Syrinx for Flute Solo, L. 137"
+        performer: "Elsa Krol"
+        notes: "Claude Debussy"
         
-      - title: "Flute Quartet"
+      - title: "Suite Irlandaise -- 1. The Kerry Dance, 2. Shenandoah, 3. The Bucks of Oranmore, 4. The Red-Haired Lass"
         performers:
           - "Elsa Krol"
           - "Susan Kroeker"
           - "Cathy Herrera"
           - "Grace Yang"
+        notes: "Mathieu Alvado"
+
+      - title: "Vocal Quartet"
+        performers:
+          - "Elsa Krol"
+          - "Alanna Krol"
+          - "Josephine Kroeker"
+          - "Autumn Swisher"
         notes: "TBD"
           
       - title: "Sonate en Ut for Two Saxophones -- 1. Allegro, 2. Sarabanda largo, 3. Allegro"
@@ -47,15 +53,15 @@ sections:
           - "Lance Welch"
         notes: "Jen-Marie LeClair, adapted by Jean-Marie Londeix"
         
-      - title: "Marimba Solo"
+      - title: "Mexican Murals -- 1. Village Festival"
         performer: "Charlotte Krol"
-        notes: "TBD"
+        notes: "Thomas A. Brown"
         
-      - title: "Clarinet with piano"
+      - title: "Eine Kleine Nachtmusik -- 1. Allegro"
         performers: 
           - "Alanna Krol"
           - "Elsa Krol"          
-        notes: "TBD"
+        notes: "Wolfgang Amadeus Mozart, arr. John Higgins"
         
       - title: "L'Abeille (The Bee)"
         performers: 
