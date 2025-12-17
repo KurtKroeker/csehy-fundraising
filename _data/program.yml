@@ -8,80 +8,80 @@ sections:
   - title: "Part I"
     items:
       - title: "Invention No. 1 in C major, BWV 772"
-        performer: "Josephine Kroeker"
+        performer: "Josephine Kroeker, piano"
         notes: "Johann Sebastian Bach"
         
       - title: "Arietta, Op. 43, No. 7"
-        performer: "Josephine Kroeker"
+        performer: "Josephine Kroeker, piano"
         notes: "Reinhold Moritzovich Gliere"
         
       - title: "Nocturne in E-flat major, Op. 9, No. 2"
-        performer: "Elsa Krol"
+        performer: "Elsa Krol, piano"
         notes: "Frederic Chopin"
 
       - title: "Wedding Day at Troldhaugen, Op. 65, No. 6"
-        performer: "Charlotte Krol"
+        performer: "Charlotte Krol, piano"
         notes: "Edvard Grieg"
 
       - title: "Amazing Grace"
-        performer: "Alanna Krol"
+        performer: "Alanna Krol, piano"
         notes: "Traditional, arr. Dennis Alexander"
 
       - title: "Syrinx for Flute Solo, L. 137"
-        performer: "Elsa Krol"
+        performer: "Elsa Krol, flute"
         notes: "Claude Debussy"
         
       - title: "Suite Irlandaise -- 1. The Kerry Dance, 2. Shenandoah, 3. The Bucks of Oranmore, 4. The Red-Haired Lass"
         performers:
-          - "Elsa Krol"
-          - "Susan Kroeker"
-          - "Cathy Herrera"
-          - "Grace Yang"
+          - "Elsa Krol, flute"
+          - "Susan Kroeker, flute"
+          - "Cathy Herrera, flute"
+          - "Grace Yang, flute"
         notes: "Mathieu Alvado"
 
       - title: "Vocal Quartet"
         performers:
-          - "Elsa Krol"
-          - "Alanna Krol"
-          - "Josephine Kroeker"
-          - "Autumn Swisher"
+          - "Elsa Krol, soprano"
+          - "Alanna Krol, soprano"
+          - "Josephine Kroeker, alto"
+          - "Autumn Swisher, alto"
         notes: "TBD"
           
       - title: "Sonate en Ut for Two Saxophones -- 1. Allegro, 2. Sarabanda largo, 3. Allegro"
         performers: 
-          - "Mona Chang"
-          - "Lance Welch"
+          - "Mona Chang, alto saxophone"
+          - "Lance Welch, alto saxophone"
         notes: "Jen-Marie LeClair, adapted by Jean-Marie Londeix"
         
       - title: "Mexican Murals -- 1. Village Festival"
-        performer: "Charlotte Krol"
+        performer: "Charlotte Krol, marimba"
         notes: "Thomas A. Brown"
         
       - title: "Eine Kleine Nachtmusik -- 1. Allegro"
         performers: 
-          - "Alanna Krol"
-          - "Elsa Krol"          
+          - "Alanna Krol, clarinet"
+          - "Elsa Krol, piano"
         notes: "Wolfgang Amadeus Mozart, arr. John Higgins"
         
       - title: "L'Abeille (The Bee)"
         performers: 
-          - "Kurt Kroeker"
-          - "Steve Baird"
+          - "Kurt Kroeker, violin"
+          - "Steve Baird, piano"
         notes: "François Schubert"
       
       - title: "Romance, Op. 41"
         performers: 
-          - "Kurt Kroeker"
-          - "Steve Baird"
+          - "Kurt Kroeker, violin"
+          - "Steve Baird, piano"
         notes: "Anton Rubinstein"
 
       - title: "Celtic Medley"
         performers: 
-          - "Kurt Kroeker"
-          - "Josephine Kroeker"
-          - "Elsa Krol"
-          - "Charlotte Krol"
-          - "Alanna Krol"
+          - "Kurt Kroeker, violin"
+          - "Josephine Kroeker, accordion"
+          - "Elsa Krol, flute"
+          - "Charlotte Krol, percussion"
+          - "Alanna Krol, piano"
         notes: "arr. Kurt Kroeker"
         
   - title: "fine"
