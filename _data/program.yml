@@ -45,6 +45,7 @@ sections:
         
       - title: "Suite Irlandaise"
         composer: "Mathieu Alvado"
+        dates: "(b.1978)"
         movements:
           - title: "1. The Kerry Dance"
           - title: "2. Shenandoah"
