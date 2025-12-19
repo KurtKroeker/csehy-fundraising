@@ -28,7 +28,8 @@ sections:
           - "Charlotte Krol, piano"
 
       - title: "Amazing Grace"
-        composer: "Traditional, arr. Dennis Alexander"
+        composer: "Traditional"
+        arranger: "Dennis Alexander"
         performers:
           - "Alanna Krol, piano"
 
@@ -59,7 +60,8 @@ sections:
           - "Autumn Swisher, alto"
           
       - title: "Sonate en Ut for Two Saxophones"
-        composer: "Jean-Marie LeClair, adapted by Jean-Marie Londeix"
+        composer: "Jean-Marie LeClair"
+        arranger: "Jean-Marie Londeix"
         movements:
           - title: "1. Allegro"
           - title: "2. Sarabanda largo"
@@ -76,7 +78,8 @@ sections:
           - "Charlotte Krol, marimba"
         
       - title: "Eine Kleine Nachtmusik"
-        composer: "Wolfgang Amadeus Mozart, arr. John Higgins"
+        composer: "Wolfgang Amadeus Mozart"
+        arranger: "John Higgins"
         movements:
           - title: "1. Allegro"
         performers: 
@@ -96,7 +99,8 @@ sections:
           - "Steve Baird, piano"
 
       - title: "Celtic Medley"
-        composer: "arr. Kurt Kroeker"
+        composer: ""
+        arranger: "Kurt Kroeker"
         performers: 
           - "Kurt Kroeker, violin"
           - "Josephine Kroeker, accordion"

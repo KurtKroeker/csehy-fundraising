@@ -43,24 +43,43 @@
     .program-item {
       margin: 1.5rem 0;
       padding-left: 1rem;
-      border-left: 3px solid #ddd;
+      /* border-left: 3px solid #ddd; */
     }
     
-    .program-item h3 {
-      margin: 0.25rem 0;
+    .program-item-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 0.5rem;
+    }
+    
+    .program-item-header h3 {
+      margin: 0;
       font-size: 1.1em;
+      flex: 1;
     }
     
-    .program-item .composer {
+    .program-item-header .composer {
+      text-align: right;
       color: #666;
-      margin: 0.25rem 0;
       font-size: 0.95em;
+      margin-left: 1rem;
+      white-space: nowrap;
+    }
+    
+    .program-item .arranger {
+      text-align: right;
+      color: #666;
+      font-size: 0.9em;
+      margin-bottom: 0.5rem;
+      font-style: italic;
     }
     
     .program-item .performers-list {
-      margin: 0.5rem 0;
+      margin: 0.75rem 0;
       list-style-type: none;
       padding-left: 0;
+      text-align: center;
     }
     
     .program-item .performers-list li {
@@ -133,10 +152,15 @@
           {% if section.items %}
             {% for item in section.items %}
               <div class="program-item">
-                <h3>{{ item.title }}</h3>
+                <div class="program-item-header">
+                  <h3>{{ item.title }}</h3>
+                  {% if item.composer %}
+                    <div class="composer">{{ item.composer }}</div>
+                  {% endif %}
+                </div>
                 
-                {% if item.composer %}
-                  <div class="composer">{{ item.composer }}</div>
+                {% if item.arranger %}
+                  <div class="arranger">Arr. {{ item.arranger }}</div>
                 {% endif %}
                 
                 {% if item.movements %}
