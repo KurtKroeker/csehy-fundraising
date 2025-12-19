@@ -9,21 +9,25 @@ sections:
     items:
       - title: "Invention No. 1 in C major, BWV 772"
         composer: "Johann Sebastian Bach"
+        dates: "(1685-1750)"
         performers:
           - "Josephine Kroeker, piano"
         
       - title: "Arietta, Op. 43, No. 7"
         composer: "Reinhold Moritzovich Gliere"
+        dates: "(1875-1956)"
         performers:
           - "Josephine Kroeker, piano"
         
       - title: "Nocturne in E-flat major, Op. 9, No. 2"
         composer: "Frederic Chopin"
+        dates: "(1810-1849)"
         performers:
           - "Elsa Krol, piano"
 
       - title: "Wedding Day at Troldhaugen, Op. 65, No. 6"
         composer: "Edvard Grieg"
+        dates: "(1843-1907)"
         performers:
           - "Charlotte Krol, piano"
 
@@ -35,6 +39,7 @@ sections:
 
       - title: "Syrinx for Flute Solo, L. 137"
         composer: "Claude Debussy"
+        dates: "(1862-1918)"
         performers:
           - "Elsa Krol, flute"
         
@@ -61,6 +66,7 @@ sections:
           
       - title: "Sonate en Ut for Two Saxophones"
         composer: "Jean-Marie LeClair"
+        dates: "(1697-1764)"
         arranger: "Jean-Marie Londeix"
         movements:
           - title: "1. Allegro"
@@ -72,6 +78,7 @@ sections:
         
       - title: "Mexican Murals"
         composer: "Thomas A. Brown"
+        dates: "(1932-2016)"
         movements:
           - title: "1. Village Festival"
         performers:
@@ -79,6 +86,7 @@ sections:
         
       - title: "Eine Kleine Nachtmusik"
         composer: "Wolfgang Amadeus Mozart"
+        dates: "(1756-1791)"
         arranger: "John Higgins"
         movements:
           - title: "1. Allegro"
@@ -88,12 +96,14 @@ sections:
         
       - title: "L'Abeille (The Bee)"
         composer: "François Schubert"
+        dates: "(1808-1878)"
         performers: 
           - "Kurt Kroeker, violin"
           - "Steve Baird, piano"
       
       - title: "Romance, Op. 41"
         composer: "Anton Rubinstein"
+        dates: "(1829-1894)"
         performers: 
           - "Kurt Kroeker, violin"
           - "Steve Baird, piano"
@@ -106,6 +116,6 @@ sections:
           - "Josephine Kroeker, accordion"
           - "Elsa Krol, flute"
           - "Charlotte Krol, percussion"
-          - "Alanna Krol, piano"
-        
+          - "Alanna Krol, piano"        
+
   - title: ""

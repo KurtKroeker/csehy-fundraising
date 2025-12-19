@@ -50,12 +50,12 @@
       display: flex;
       justify-content: space-between;
       align-items: baseline;
-      margin-bottom: 0.5rem;
+      /* margin-bottom: 0.5rem; */
     }
     
     .program-item-header h3 {
       margin: 0;
-      font-size: 1.1em;
+      font-size: 0.95em;
       flex: 1;
     }
     
@@ -67,6 +67,14 @@
       white-space: nowrap;
     }
     
+  .program-item .dates {
+      text-align: right;
+      color: #666;
+      font-size: 0.9em;
+      margin-bottom: 0.5rem;
+      font-style: italic;
+    }
+
     .program-item .arranger {
       text-align: right;
       color: #666;
@@ -147,7 +155,7 @@
         </div>
       {% else %}
         <div class="program-section">
-          <h2>{{ section.title }}</h2>
+          <!-- <h2>{{ section.title }}</h2> -->
           
           {% if section.items %}
             {% for item in section.items %}
@@ -159,9 +167,14 @@
                   {% endif %}
                 </div>
                 
+                {% if item.dates %}
+                  <div class="dates">{{ item.dates }}</div>
+                {% endif %}
+
                 {% if item.arranger %}
                   <div class="arranger">Arr. {{ item.arranger }}</div>
                 {% endif %}
+                
                 
                 {% if item.movements %}
                   <ul class="movements">
