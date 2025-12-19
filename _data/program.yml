@@ -5,7 +5,7 @@ venue: "Oakwood Presbyterian Church"
 address: "1865 Waddle Rd, State College, PA 16803"
 
 sections:
-  - title: ""
+  - title: "Part 1"
     items:
       - title: "Invention No. 1 in C major, BWV 772"
         composer: "Johann Sebastian Bach"
@@ -65,7 +65,7 @@ sections:
     items:
       - title: ""
 
-  - title: ""
+  - title: "Part 2"
     items:
       - title: "Amazing Grace"
         composer: "Traditional"
