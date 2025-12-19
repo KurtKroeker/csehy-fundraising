@@ -8,80 +8,100 @@ sections:
   - title: "Part I"
     items:
       - title: "Invention No. 1 in C major, BWV 772"
-        performer: "Josephine Kroeker, piano"
-        notes: "Johann Sebastian Bach"
+        composer: "Johann Sebastian Bach"
+        performers:
+          - "Josephine Kroeker, piano"
         
       - title: "Arietta, Op. 43, No. 7"
-        performer: "Josephine Kroeker, piano"
-        notes: "Reinhold Moritzovich Gliere"
+        composer: "Reinhold Moritzovich Gliere"
+        performers:
+          - "Josephine Kroeker, piano"
         
       - title: "Nocturne in E-flat major, Op. 9, No. 2"
-        performer: "Elsa Krol, piano"
-        notes: "Frederic Chopin"
+        composer: "Frederic Chopin"
+        performers:
+          - "Elsa Krol, piano"
 
       - title: "Wedding Day at Troldhaugen, Op. 65, No. 6"
-        performer: "Charlotte Krol, piano"
-        notes: "Edvard Grieg"
+        composer: "Edvard Grieg"
+        performers:
+          - "Charlotte Krol, piano"
 
       - title: "Amazing Grace"
-        performer: "Alanna Krol, piano"
-        notes: "Traditional, arr. Dennis Alexander"
+        composer: "Traditional, arr. Dennis Alexander"
+        performers:
+          - "Alanna Krol, piano"
 
       - title: "Syrinx for Flute Solo, L. 137"
-        performer: "Elsa Krol, flute"
-        notes: "Claude Debussy"
+        composer: "Claude Debussy"
+        performers:
+          - "Elsa Krol, flute"
         
-      - title: "Suite Irlandaise -- 1. The Kerry Dance, 2. Shenandoah, 3. The Bucks of Oranmore, 4. The Red-Haired Lass"
+      - title: "Suite Irlandaise"
+        composer: "Mathieu Alvado"
+        movements:
+          - title: "1. The Kerry Dance"
+          - title: "2. Shenandoah"
+          - title: "3. The Bucks of Oranmore"
+          - title: "4. The Red-Haired Lass"
         performers:
           - "Elsa Krol, flute"
           - "Susan Kroeker, flute"
           - "Cathy Herrera, flute"
           - "Grace Yang, flute"
-        notes: "Mathieu Alvado"
 
       - title: "Vocal Quartet"
+        composer: "TBD"
         performers:
           - "Elsa Krol, soprano"
           - "Alanna Krol, soprano"
           - "Josephine Kroeker, alto"
           - "Autumn Swisher, alto"
-        notes: "TBD"
           
-      - title: "Sonate en Ut for Two Saxophones -- 1. Allegro, 2. Sarabanda largo, 3. Allegro"
+      - title: "Sonate en Ut for Two Saxophones"
+        composer: "Jean-Marie LeClair, adapted by Jean-Marie Londeix"
+        movements:
+          - title: "1. Allegro"
+          - title: "2. Sarabanda largo"
+          - title: "3. Allegro"
         performers: 
           - "Mona Chang, alto saxophone"
           - "Lance Welch, alto saxophone"
-        notes: "Jean-Marie LeClair, adapted by Jean-Marie Londeix"
         
-      - title: "Mexican Murals -- 1. Village Festival"
-        performer: "Charlotte Krol, marimba"
-        notes: "Thomas A. Brown"
+      - title: "Mexican Murals"
+        composer: "Thomas A. Brown"
+        movements:
+          - title: "1. Village Festival"
+        performers:
+          - "Charlotte Krol, marimba"
         
-      - title: "Eine Kleine Nachtmusik -- 1. Allegro"
+      - title: "Eine Kleine Nachtmusik"
+        composer: "Wolfgang Amadeus Mozart, arr. John Higgins"
+        movements:
+          - title: "1. Allegro"
         performers: 
           - "Alanna Krol, clarinet"
           - "Elsa Krol, piano"
-        notes: "Wolfgang Amadeus Mozart, arr. John Higgins"
         
       - title: "L'Abeille (The Bee)"
+        composer: "François Schubert"
         performers: 
           - "Kurt Kroeker, violin"
           - "Steve Baird, piano"
-        notes: "François Schubert"
       
       - title: "Romance, Op. 41"
+        composer: "Anton Rubinstein"
         performers: 
           - "Kurt Kroeker, violin"
           - "Steve Baird, piano"
-        notes: "Anton Rubinstein"
 
       - title: "Celtic Medley"
+        composer: "arr. Kurt Kroeker"
         performers: 
           - "Kurt Kroeker, violin"
           - "Josephine Kroeker, accordion"
           - "Elsa Krol, flute"
           - "Charlotte Krol, percussion"
           - "Alanna Krol, piano"
-        notes: "arr. Kurt Kroeker"
         
   - title: "fine"

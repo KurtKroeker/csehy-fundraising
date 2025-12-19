@@ -51,18 +51,36 @@
       font-size: 1.1em;
     }
     
-    .program-item .performer {
-      font-weight: 600;
-      color: #333;
+    .program-item .composer {
+      color: #666;
       margin: 0.25rem 0;
+      font-size: 0.95em;
     }
     
     .program-item .performers-list {
       margin: 0.5rem 0;
+      list-style-type: none;
+      padding-left: 0;
     }
     
     .program-item .performers-list li {
       margin: 0.25rem 0;
+      font-weight: 600;
+      color: #333;
+    }
+    
+    .program-item .movements {
+      margin: 0.75rem 0 0.5rem 1.5rem;
+      list-style-type: none;
+      padding-left: 0;
+      border-left: 2px solid #ccc;
+      padding-left: 0.75rem;
+    }
+    
+    .program-item .movements li {
+      margin: 0.5rem 0;
+      color: #555;
+      font-size: 0.95em;
     }
     
     .program-item .accompaniment {
@@ -117,8 +135,16 @@
               <div class="program-item">
                 <h3>{{ item.title }}</h3>
                 
-                {% if item.performer %}
-                  <div class="performer">{{ item.performer }}</div>
+                {% if item.composer %}
+                  <div class="composer">{{ item.composer }}</div>
+                {% endif %}
+                
+                {% if item.movements %}
+                  <ul class="movements">
+                    {% for movement in item.movements %}
+                      <li>{{ movement.title }}</li>
+                    {% endfor %}
+                  </ul>
                 {% endif %}
                 
                 {% if item.performers %}
