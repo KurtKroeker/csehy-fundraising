@@ -18,30 +18,74 @@ sections:
         dates: "(1875-1956)"
         performers:
           - "Josephine Kroeker, piano"
-        
-      - title: "Nocturne in E-flat major, Op. 9, No. 2"
-        composer: "Frederic Chopin"
-        dates: "(1810-1849)"
-        performers:
-          - "Elsa Krol, piano"
-
-      - title: "Wedding Day at Troldhaugen, Op. 65, No. 6"
-        composer: "Edvard Grieg"
-        dates: "(1843-1907)"
-        performers:
-          - "Charlotte Krol, piano"
-
-      - title: "Amazing Grace"
-        composer: "Traditional"
-        arranger: "Dennis Alexander"
-        performers:
-          - "Alanna Krol, piano"
 
       - title: "Syrinx for Flute Solo, L. 137"
         composer: "Claude Debussy"
         dates: "(1862-1918)"
         performers:
           - "Elsa Krol, flute"
+        
+      - title: "Wedding Day at Troldhaugen, Op. 65, No. 6"
+        composer: "Edvard Grieg"
+        dates: "(1843-1907)"
+        performers:
+          - "Charlotte Krol, piano"
+
+      - title: "Eine Kleine Nachtmusik"
+        composer: "Wolfgang Amadeus Mozart"
+        dates: "(1756-1791)"
+        arranger: "John Higgins"
+        movements:
+          - title: "1. Allegro"
+        performers: 
+          - "Alanna Krol, clarinet"
+          - "Elsa Krol, piano"
+
+      - title: "Vocal Quartet"
+        composer: "TBD"
+        performers:
+          - "Elsa Krol, soprano"
+          - "Alanna Krol, soprano"
+          - "Josephine Kroeker, alto"
+          - "Autumn Swisher, alto"
+
+      - title: "Sonate en Ut for Two Saxophones"
+        composer: "Jean-Marie LeClair"
+        dates: "(1697-1764)"
+        arranger: "Jean-Marie Londeix"
+        movements:
+          - title: "1. Allegro"
+          - title: "2. Sarabanda largo"
+          - title: "3. Allegro"
+        performers: 
+          - "Mona Chang, alto saxophone"
+          - "Lance Welch, alto saxophone"
+
+  - title: "INTERMISSION"
+    items:
+      - title: ""
+
+  - title: ""
+    items:
+      - title: "Amazing Grace"
+        composer: "Traditional"
+        arranger: "Dennis Alexander"
+        performers:
+          - "Alanna Krol, piano"
+
+      - title: "Mexican Murals"
+        composer: "Thomas A. Brown"
+        dates: "(1932-2016)"
+        movements:
+          - title: "1. Village Festival"
+        performers:
+          - "Charlotte Krol, marimba"
+      
+      - title: "Nocturne in E-flat major, Op. 9, No. 2"
+        composer: "Frederic Chopin"
+        dates: "(1810-1849)"
+        performers:
+          - "Elsa Krol, piano"
         
       - title: "Suite Irlandaise"
         composer: "Mathieu Alvado"
@@ -55,45 +99,7 @@ sections:
           - "Elsa Krol, flute"
           - "Susan Kroeker, flute"
           - "Cathy Herrera, flute"
-          - "Grace Yang, flute"
-
-      - title: "Vocal Quartet"
-        composer: "TBD"
-        performers:
-          - "Elsa Krol, soprano"
-          - "Alanna Krol, soprano"
-          - "Josephine Kroeker, alto"
-          - "Autumn Swisher, alto"
-          
-      - title: "Sonate en Ut for Two Saxophones"
-        composer: "Jean-Marie LeClair"
-        dates: "(1697-1764)"
-        arranger: "Jean-Marie Londeix"
-        movements:
-          - title: "1. Allegro"
-          - title: "2. Sarabanda largo"
-          - title: "3. Allegro"
-        performers: 
-          - "Mona Chang, alto saxophone"
-          - "Lance Welch, alto saxophone"
-        
-      - title: "Mexican Murals"
-        composer: "Thomas A. Brown"
-        dates: "(1932-2016)"
-        movements:
-          - title: "1. Village Festival"
-        performers:
-          - "Charlotte Krol, marimba"
-        
-      - title: "Eine Kleine Nachtmusik"
-        composer: "Wolfgang Amadeus Mozart"
-        dates: "(1756-1791)"
-        arranger: "John Higgins"
-        movements:
-          - title: "1. Allegro"
-        performers: 
-          - "Alanna Krol, clarinet"
-          - "Elsa Krol, piano"
+          - "Grace Yang, flute"        
         
       - title: "L'Abeille (The Bee)"
         composer: "François Schubert"
