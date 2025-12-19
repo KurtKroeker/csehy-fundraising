@@ -5,7 +5,7 @@ venue: "Oakwood Presbyterian Church"
 address: "1865 Waddle Rd, State College, PA 16803"
 
 sections:
-  - title: "Part I"
+  - title: ""
     items:
       - title: "Invention No. 1 in C major, BWV 772"
         composer: "Johann Sebastian Bach"
@@ -104,4 +104,4 @@ sections:
           - "Charlotte Krol, percussion"
           - "Alanna Krol, piano"
         
-  - title: "fine"
+  - title: ""
