@@ -41,13 +41,13 @@ sections:
           - "Alanna Krol, clarinet"
           - "Elsa Krol, piano"
 
-      - title: "Vocal Quartet"
-        composer: "TBD"
+      - title: "'Lift Thine Eyes to the Mountains' from <i>Elijah</i>"
+        composer: "Felix Mendelssohn-Bartholdy"
+        dates: "(1809-1847)"
         performers:
-          - "Elsa Krol, soprano"
           - "Alanna Krol, soprano"
+          - "Elsa Krol, soprano"
           - "Josephine Kroeker, alto"
-          - "Autumn Swisher, alto"
 
       - title: "Sonate en Ut for Two Saxophones"
         composer: "Jean-Marie LeClair"
