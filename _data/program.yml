@@ -118,10 +118,14 @@ sections:
       - title: "Celtic Medley"
         composer: "Traditional"
         arranger: "Kurt Kroeker"
+        movements:
+          - title: "<b>Jigs:</b> The Road to Lisdoonvarna/The Rakes of Kildare/Smash the Windows"
+          - title: "<b>Strathspey:</b> The Laird of Drumblair"
+          - title: "<b>Reels:</b> Flowers of Edinburgh/St. Anne's Reel"
         performers: 
           - "Kurt Kroeker, violin"
           - "Josephine Kroeker, accordion"
-          - "Elsa Krol, flute"
+          - "Elsa Krol, tin whistle"
           - "Charlotte Krol, percussion"
           - "Alanna Krol, piano"        
 
