@@ -27,7 +27,7 @@ title: Csehy Benefit Concert
   <ul>
     {% for p in site.data.performers %}
     <li class="performer-card">
-      <img src="{{ '/assets/images/' | append: p.photo | relative_url }}" alt="Photo of {{ p.name }}" loading="lazy">
+      <a href="{{ '/performers/' | append: p.slug }}"><img src="{{ '/assets/images/' | append: p.photo | relative_url }}" alt="Photo of {{ p.name }}" loading="lazy"></a>
       <div>
         <h3>{{ p.name }}</h3>
         <p class="instrument">{{ p.instrument }}</p>
