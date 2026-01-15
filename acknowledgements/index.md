@@ -35,10 +35,11 @@ All three of us would also like to thank the ensemble and school educators who h
 * Douglas Schunk (State College Area High School)
 * Emma Van Allen (State College Area High School)
 * Sarah Shafer (Nittany Valley Children’s Choir)
+* Wendy Bachman (former piano teacher)
 
 <b>Josephine</b> would like to share her own deeply-felt gratitude for the following influences on her musical and personal development:
 
-* Lou Ann Shafer (Josephine's first and late piano Instructor, late Director of Nittany Valley Children's Choir)
+* Lou Ann Shafer (Josephine's first and late piano instructor, late director of Nittany Valley Children's Choir)
 * Wendy Bachman (Josephine's second piano instructor)
 * Sarah Shafer (Director of Nittany Valley Children's Choir)
 * Kristin Stephenson (Josephine's current piano instructor)
