@@ -14,6 +14,7 @@ title: Csehy Benefit Concert
     <a class="btn secondary" href="{{ '/program/' | relative_url }}">Concert Program</a>
     <a class="btn secondary" href="{{ '/performers/' | relative_url }}">Meet the performers</a>
     <a class="btn secondary" href="{{ '/csehy/' | relative_url }}">About Csehy</a>
+    <a class="btn secondary" href="{{ '/acknowledgements/' | relative_url }}">Acknowledgements</a>
   </p>
 </section>
 
